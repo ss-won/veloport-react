@@ -10,6 +10,7 @@ veloport와 함께하는 모던 리액트 강의 정리
 - [useState 사용하기 2️⃣ - input 상태 업데이트](https://github.com/ss-won/veloport-react/blob/master/Ch1/md/6.md)
 - [useRef 사용하기](https://github.com/ss-won/veloport-react/blob/master/Ch1/md/7.md)
 - [배열 렌더링하기](https://github.com/ss-won/veloport-react/blob/master/Ch1/md/8.md)
+- [배열 값 갱신하기](https://github.com/ss-won/veloport-react/blob/master/Ch1/md/9.md)
 ## 2장
 ## 3장
 ## 4장
