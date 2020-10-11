@@ -14,6 +14,8 @@ veloport와 함께하는 모던 리액트 강의 정리
 - [useEffect 사용하기 -  mount, unmount 업데이트 시 작업 설정하기](https://github.com/ss-won/veloport-react/blob/master/Ch1/md/10.md)
 - [useMemo, useCallback, React.memo 사용하기 - 컴포넌트 렌더링 최적화](https://github.com/ss-won/veloport-react/blob/master/Ch1/md/11.md)
 - [useReducer 사용 - 컴포넌트 state값 관리하기](https://github.com/ss-won/veloport-react/blob/master/Ch1/md/12.md)
+- [Custom Hook 만들기](https://github.com/ss-won/veloport-react/blob/master/Ch1/md/13.md)
+- [Context API 사용하기](https://github.com/ss-won/veloport-react/blob/master/Ch1/md/14.md)
 ## 2장
 ## 3장
 ## 4장
