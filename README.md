@@ -16,6 +16,9 @@ veloport와 함께하는 모던 리액트 강의 정리
 - [useReducer 사용 - 컴포넌트 state값 관리하기](https://github.com/ss-won/veloport-react/blob/master/Ch1/md/12.md)
 - [Custom Hook 만들기](https://github.com/ss-won/veloport-react/blob/master/Ch1/md/13.md)
 - [Context API 사용하기](https://github.com/ss-won/veloport-react/blob/master/Ch1/md/14.md)
+- [Immer 사용해서 불변성 관리하기](https://github.com/ss-won/veloport-react/blob/master/Ch1/md/15.md)
+- [Class형 컴포넌트 작성하기](https://github.com/ss-won/veloport-react/blob/master/Ch1/md/16.md)
+- [LifeCycle Method](https://github.com/ss-won/veloport-react/blob/master/Ch1/md/17.md)
 ## 2장
 ## 3장
 ## 4장
