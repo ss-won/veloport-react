@@ -31,7 +31,9 @@ veloport와 함께하는 모던 리액트 강의 정리
 
 - [API 연동의 기본 - 1️⃣ axios, useState로 API 연동하기](https://github.com/ss-won/veloport-react/blob/master/Ch4/1.md)
 - [API 연동의 기본 - 2️⃣ axios, useReducer로 API 연동하기](https://github.com/ss-won/veloport-react/blob/master/Ch4/2.md)
-- [Custom Hook으로 API 상태값 관리하기](https://github.com/ss-won/veloport-react/blob/master/Ch4/3.md)
+- [API 상태값 관리하기 - 1️⃣ Custom Hook 만들어서 관리하기](https://github.com/ss-won/veloport-react/blob/master/Ch4/3.md)
+- [API 상태값 관리하기 - 2️⃣ react-async 라이브러리 사용하기](https://github.com/ss-won/veloport-react/blob/master/Ch4/4.md)
+- [API 상태값 관리하기 - 3️⃣ Context 사용하기](https://github.com/ss-won/veloport-react/blob/master/Ch4/5.md)
 
 ## 5장
 
