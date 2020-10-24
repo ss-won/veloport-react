@@ -43,7 +43,12 @@ veloport와 함께하는 모던 리액트 강의 정리
 - [React Router 부가기능](https://github.com/ss-won/veloport-react/blob/master/Ch5/4.md)
 - [React Router Hooks](https://github.com/ss-won/veloport-react/blob/master/Ch5/5.md)
 
-## 6장
+## 6장 - Redux
+
+- [Redux란](https://github.com/ss-won/veloport-react/blob/master/Ch6/1.md)
+- [Redux의 주요 키워드와 규칙](https://github.com/ss-won/veloport-react/blob/master/Ch6/2.md)
+- [예제로 보는 Redux 사용 흐름](https://github.com/ss-won/veloport-react/blob/master/Ch6/3.md)
+- [Ducks Pattern을 이용한 Redux 모듈 구현하기 - 1️⃣ Counter](https://github.com/ss-won/veloport-react/blob/master/Ch6/4.md)
 
 ## 7장
 
